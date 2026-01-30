@@ -8,7 +8,7 @@ def main():
     message = "EDWED"
     print(f"Welcome to {message}!")
     print(f"\n{message} is running successfully.")
-    
+
     # Display EDWED in ASCII art style
     ascii_art = """
     ███████╗██████╗ ██╗    ██╗███████╗██████╗ 
